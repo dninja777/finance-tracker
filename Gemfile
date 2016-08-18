@@ -28,6 +28,9 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# A ruby gem that retrieves stock quotes and historical pricing from google yahoo.
+gem 'stock_quote'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
